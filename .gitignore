@@ -4,5 +4,10 @@
 # Dependency directories
 /node_modules
 
+/siteforconnor/node_moduless
+
 # lerna files
 /lerna-debug.log
+
+# development
+/.env.development
